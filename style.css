@@ -68,5 +68,11 @@ h1{
     box-shadow:  5px 5px 10px #363535;
     border-radius: 10px;
   }
+
+  footer{
+    text-align: center;
+    flex-direction: row;
+    margin: 4px;
+  }
   
     
